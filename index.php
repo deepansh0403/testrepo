@@ -7,5 +7,6 @@
 </head>
 <body>
     <h1>Welcome to Github Repo</h1>
+    <p>This is a simple HTML page created to demonstrate how to use Github.</p>
 </body>
 </html>
